@@ -10,9 +10,9 @@
 3. Computational modeling of excitatory-inhibitory neural networks in the neocortex.
 
 - 📫 How to reach me ...
-Personal: <mduhain@gmail.com>
-Professional: <michael_duhain@urmc.rochester.edu>
-Lab Website: https://www.haptics-lab.org/
+1. Personal: <mduhain@gmail.com>
+2. Professional: <michael_duhain@urmc.rochester.edu>
+3. Lab Website: https://www.haptics-lab.org/
 
 <!---
 mduhain/mduhain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

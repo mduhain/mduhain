@@ -5,9 +5,9 @@
 - 🌱 I’m currently a graduate student in the Haptics Lab at the University of Rochester.
 
 - 💞️ I’m looking to collaborate on:
-- MATLAB-based GUIs for controlling neurophysiology experiments
-- Automated approaches for spike-sorting neurophysiology data from large multi-laminar arrays.
-- Computational modeling of excitatory-inhibitory neural networks in the neocortex.
+1. MATLAB-based GUIs for controlling neurophysiology experiments
+2. Automated approaches for spike-sorting neurophysiology data from large multi-laminar arrays.
+3. Computational modeling of excitatory-inhibitory neural networks in the neocortex.
 
 - 📫 How to reach me ...
 Personal: <mduhain@gmail.com>

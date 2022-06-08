@@ -1,5 +1,4 @@
 ## Hi, I’m @mduhain 👋
-*Michael DuHain, M.S.*
 
 ### I’m interested in how neurons encode tactile features in the somatosensory system.
 
@@ -11,9 +10,8 @@
 3. Analysis of _in vivo_ calcium imaging data (gCaMP).
 4. Computational modeling of cortical excitatory-inhibitory neural networks.
 
-### 📫 How to reach me ...
+### How to reach me ✉️
 - <michael_duhain@urmc.rochester.edu>
-- https://www.haptics-lab.org/
 
 <!---
 mduhain/mduhain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

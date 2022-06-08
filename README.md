@@ -1,17 +1,18 @@
-- 👋 Hi, I’m @mduhain
+- Hi, I’m @mduhain 👋
 
-- 👀 I’m interested in how neurons encode tactile features in the somatosensory system.
+- I’m interested in how neurons encode tactile features in the somatosensory system.
 
-- 🌱 I’m currently a graduate student in the Haptics Lab at the University of Rochester.
+- I’m currently a graduate student in the Haptics Lab at the University of Rochester.
 
-- 💞️ I’m looking to collaborate on:
+- I’m looking to collaborate on:
 1. MATLAB-based GUIs for controlling neurophysiology experiments
 2. Automated approaches for spike-sorting neurophysiology data from large multi-laminar arrays.
-3. Computational modeling of excitatory-inhibitory neural networks in the neocortex.
+3. Analysis of _in vivo_ calcium imaging data (gCaMP).
+4. Computational modeling of cortical excitatory-inhibitory neural networks.
 
 - 📫 How to reach me ...
-1. Personal: <mduhain@gmail.com>
-2. Professional: <michael_duhain@urmc.rochester.edu>
+1. Professional: <michael_duhain@urmc.rochester.edu>
+2. Personal: <mduhain@gmail.com>
 3. Lab Website: https://www.haptics-lab.org/
 
 <!---

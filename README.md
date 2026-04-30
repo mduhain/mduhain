@@ -11,6 +11,7 @@
 4. Computational modeling of cortical excitatory-inhibitory neural networks.
 
 ### How to reach me ✉️
+- <mduhain@gmail.com>
 - <michael_duhain@urmc.rochester.edu>
 
 <!---
